@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../esp32-Blink"
+		},
+		{
+			"name": "timer-with-csb",
+			"path": "../../../timer-with-csb"
+		}
+	],
+	"settings": {}
+}
