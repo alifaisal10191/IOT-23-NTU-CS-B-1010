@@ -18,9 +18,9 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 DHT dht(DHTPIN, DHTTYPE);
 
-// WiFi credentials
-const char* ssid     = "Pookie";
-const char* password = "kainat786";
+// WiFi credentials h
+const char* ssid     = "";
+const char* password = "";
 
 // --- Static IP settings ---
 IPAddress local_IP(192,168,10,1);      // Choose your ESP32 static IP
